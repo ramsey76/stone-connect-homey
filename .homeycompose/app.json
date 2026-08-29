@@ -1,0 +1,34 @@
+{
+  "id": "com.arnomclean.stoneconnect",
+  "version": "1.1.0",
+  "compatibility": ">=13.0.0",
+  "sdk": 3,
+  "runtime": "python",
+  "pythonVersion": "3.14",
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Stone Connect"
+  },
+  "description": {
+    "en": "Control your electric bathroom heater over Wi-Fi, with boost and preset modes."
+  },
+  "category": [
+    "climate"
+  ],
+  "brandColor": "#D94F2A",
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Arno McLean",
+    "email": "arno.mclean@gmail.com"
+  },
+  "pythonPackages": [
+    "aiohttp"
+  ]
+}

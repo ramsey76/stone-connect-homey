@@ -1,0 +1,13 @@
+{
+  "type": "number",
+  "title": { "en": "Boost" },
+  "icon": "/assets/boost.svg",
+  "uiComponent": "slider",
+  "getable": true,
+  "setable": true,
+  "min": 0,
+  "max": 120,
+  "step": 30,
+  "units": { "en": "min" },
+  "insights": false
+}

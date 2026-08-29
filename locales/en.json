@@ -1,0 +1,8 @@
+{
+  "pair": {
+    "manual_ip": {
+      "title": "Enter heater IP",
+      "subtitle": "Find the heater's IP in your router's DHCP lease list."
+    }
+  }
+}

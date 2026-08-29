@@ -1,0 +1,43 @@
+{
+  "actions": [
+    {
+      "id": "activate_boost",
+      "title": { "en": "Activate Boost" },
+      "titleFormatted": { "en": "Activate Boost for [[minutes]] minutes" },
+      "hint": { "en": "Runs the heater flat-out for the given number of minutes (max 120). Afterwards the heater returns to its previous mode." },
+      "args": [
+        {
+          "type": "number",
+          "name": "minutes",
+          "title": { "en": "Duration (minutes)" },
+          "min": 30,
+          "max": 120,
+          "step": 1,
+          "placeholder": { "en": "120" }
+        }
+      ]
+    },
+    {
+      "id": "set_heater_mode",
+      "title": { "en": "Set heater mode" },
+      "titleFormatted": { "en": "Set mode to [[mode]]" },
+      "hint": { "en": "Switches the heater to one of its preset or power modes. Use the on/off card to put it on standby." },
+      "args": [
+        {
+          "type": "dropdown",
+          "name": "mode",
+          "title": { "en": "Mode" },
+          "values": [
+            { "id": "CMF", "label": { "en": "Comfort" } },
+            { "id": "ECO", "label": { "en": "Eco" } },
+            { "id": "ANF", "label": { "en": "Antifreeze" } },
+            { "id": "MAN", "label": { "en": "Manual" } },
+            { "id": "HIG", "label": { "en": "High" } },
+            { "id": "MED", "label": { "en": "Medium" } },
+            { "id": "LOW", "label": { "en": "Low" } }
+          ]
+        }
+      ]
+    }
+  ]
+}
