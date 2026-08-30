@@ -28,6 +28,10 @@
     "name": "Arno McLean",
     "email": "arno.mclean@gmail.com"
   },
+  "homepageUrl": "https://github.com/ramsey76/stone-connect-homey",
+  "sourceUrl": "https://github.com/ramsey76/stone-connect-homey",
+  "supportUrl": "https://github.com/ramsey76/stone-connect-homey/issues",
+  "bugsUrl": "https://github.com/ramsey76/stone-connect-homey/issues",
   "pythonPackages": [
     "aiohttp"
   ]
