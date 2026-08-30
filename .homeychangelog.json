@@ -4,5 +4,8 @@
   },
   "1.1.0": {
     "en": "Simplified device UI to on/off, target temperature, and a boost slider (0-120 min in 30 min steps). Comfort, Eco, Antifreeze, Manual, High, Medium and Low are now set via a new 'Set heater mode' flow action."
+  },
+  "1.1.1": {
+    "en": "Updated app icon and store images to depict the actual Stone Connect towel radiator."
   }
 }

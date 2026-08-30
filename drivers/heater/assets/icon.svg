@@ -1,15 +1,17 @@
 <svg width="960" height="960" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
   <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="40" y="16" width="80" height="128" rx="10" ry="10"/>
-    <line x1="56" y1="32" x2="56" y2="128"/>
-    <line x1="104" y1="32" x2="104" y2="128"/>
-    <line x1="62" y1="44" x2="98" y2="44"/>
-    <line x1="62" y1="64" x2="98" y2="64"/>
-    <line x1="62" y1="84" x2="98" y2="84"/>
-    <line x1="62" y1="104" x2="98" y2="104"/>
-    <line x1="62" y1="124" x2="98" y2="124"/>
-    <path d="M22 60 C14 52, 14 44, 22 36"/>
-    <path d="M22 88 C14 80, 14 72, 22 64"/>
-    <path d="M22 116 C14 108, 14 100, 22 92"/>
+    <rect x="40" y="12" width="80" height="120" rx="10" ry="10"/>
+    <line x1="56" y1="26" x2="56" y2="118"/>
+    <line x1="104" y1="26" x2="104" y2="118"/>
+    <line x1="62" y1="38" x2="98" y2="38"/>
+    <line x1="62" y1="56" x2="98" y2="56"/>
+    <line x1="62" y1="74" x2="98" y2="74"/>
+    <line x1="62" y1="92" x2="98" y2="92"/>
+    <line x1="62" y1="110" x2="98" y2="110"/>
+    <path d="M22 54 C14 46, 14 38, 22 30"/>
+    <path d="M22 80 C14 72, 14 64, 22 56"/>
+    <path d="M22 106 C14 98, 14 90, 22 82"/>
+    <circle cx="120" cy="144" r="12"/>
+    <circle cx="120" cy="144" r="3" fill="#000" stroke="none"/>
   </g>
 </svg>
